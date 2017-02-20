@@ -1,0 +1,6 @@
+.git/
+db.sqlite3
+req.py
+celerybeat-schedule
+
+
